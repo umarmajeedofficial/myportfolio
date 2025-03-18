@@ -167,7 +167,7 @@ body { background: var(--white-1); }
 
 .sidebar,
 article {
-  background: var(--eerie-black-2);
+  background: var(--white-2);
   border: 1px solid var(--jet);
   border-radius: 20px;
   padding: 15px;
