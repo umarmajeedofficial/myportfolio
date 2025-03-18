@@ -17,6 +17,9 @@
 
 :root {
 
+  --bg-color: hsl(0, 0%, 100%); /* Light background */
+  --text-color: hsl(0, 0%, 20%); /* Dark text */
+  --border-color: hsl(0, 0%, 80%); /* Light border */
   /**
    * colors
    */
